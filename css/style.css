@@ -6,7 +6,7 @@
 }
 
 
-.sec-1{
+.sec-1 {
 
     /* border: 20px solid rgba(229, 84, 115, 0.10); */
     display: flex;
@@ -25,10 +25,10 @@
     color: #272727;
     font-family: Lato;
     width: 600px;
-    font-size: 50px;  
+    font-size: 50px;
     /* text-align: justify; */
     font-weight: 800;
-    margin-left: 113px ;
+    margin-left: 113px;
     /* margin-top: 78px !important; */
     /* line-height: normal; */
 }
@@ -111,7 +111,7 @@
     /* border-width:400px; */
     /* background: transparent;background-color: transparent; */
     background: rgba(167, 33, 98, 0.15);
-    border: 1px solid ;
+    border: 1px solid;
     border: none;
 }
 
@@ -120,10 +120,10 @@
     margin-left: 100px;
     height: 340px;
     width: 290px;
-    background:   rgba(5, 151, 160, 0.15);
+    background: rgba(5, 151, 160, 0.15);
     /* border: 60px solid rgba(5, 151, 160, 0.15); */
 
-    border: 1px solid ;
+    border: 1px solid;
     border: none;
 }
 
@@ -132,25 +132,27 @@
     margin-left: 100px;
     height: 340px;
     width: 290px;
- 
+
     background: rgba(167, 33, 98, 0.15);
     /* border: 60px solid rgba(71, 125, 17, 0.15); */
 
-    border: 1px solid  ;
+    border: 1px solid;
     border: none;
 }
-.flowers-cap{
+
+.flowers-cap {
 
     display: flex;
     justify-content: space-around;
-/* align-items: center; */
+    /* align-items: center; */
     font-weight: bold;
     /* text-align: center; */
 
     /* justify-content: space-around; */
     /* margin-right: 250px; */
-      margin: 13px;
+    margin: 13px;
 }
+
 /* section-3 groups */
 
 .group {
@@ -172,7 +174,7 @@
     margin: 90px;
     /* width: 100%; */
     border-radius: 8px;
-background: rgba(229, 84, 115, 0.05);
+    background: rgba(229, 84, 115, 0.05);
 }
 
 
@@ -189,7 +191,7 @@ background: rgba(229, 84, 115, 0.05);
     display: flex;
  } */
 
- .rectangle-section {
+.rectangle-section {
 
     display: inline-flex;
     justify-content: space-between;
@@ -205,36 +207,40 @@ background: rgba(229, 84, 115, 0.05);
 .sh-6 {
 
     margin-left: 226px;
-  /* height: 400px; */
-padding: 90px;
-width: 70%;
-display: block;
-align-items: center;
+    /* height: 400px; */
+    padding: 90px;
+    width: 70%;
+    display: block;
+    align-items: center;
     text-align: center;
     /* justify-content: center; */
     background-image: url("images/Rectangle 9.png");
 }
-.sh-6 >h2{
-    
+
+.sh-6>h2 {
+
     font-size: 50px;
 }
-.sh-6 >p{
+
+.sh-6>p {
     font-size: 20px;
     margin: 20px;
 }
-.input-mail{
+
+.input-mail {
     margin-left: 40px;
     font-size: 23px;
     padding: 20px;
     height: 20px;
     width: 600px;
     border-radius: 8px;
-background: #FFF;
+    background: #FFF;
 }
-.btn > .btn1{
+
+.btn>.btn1 {
 
     height: 20px;
-    margin-left:222px ;
+    margin-left: 222px;
 }
 
 
@@ -245,9 +251,9 @@ background: #FFF;
 
 
 
-.space{
+.space {
 
-    margin:40px ;
+    margin: 40px;
 }
 
 
