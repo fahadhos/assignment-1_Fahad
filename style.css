@@ -1,0 +1,149 @@
+* {
+
+    font-family: Lato;
+    margin: 0;
+    padding: 0;
+}
+
+
+.sections {
+
+    /* border: 20px solid rgba(229, 84, 115, 0.10); */
+    display: flex;
+    display: block;
+
+    /* justify-content: left; */
+    align-items: flex-start;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 60px;
+    height: 440px;
+    width: 1279px;
+}
+.sh-1{
+
+color: #272727;
+font-family: Lato;
+/* font-size: 30px;   */
+font-weight: 800;
+margin-left: 113px !important;
+margin-top: 78px !important;
+/* line-height: normal; */
+}
+.p1{
+    text-align: justify;
+}
+.btn {
+    width: 118px;
+    height: 44px;
+    margin-inline: 97px;
+    /* display: inline-flex; */
+    /* padding: 20px 43px; */
+    /* align-items: flex-start; */
+    border-radius: 8px;
+    background: #E55473;
+    color: #FFFFFF;
+    border: none;
+}
+
+.img-1{
+margin-top: -399px;
+margin-left: 660px;
+    width: 433px;
+    height: 533px;
+}
+
+
+.sh-2{
+
+    display: flex;
+    /* justify-content: center; */
+  display: block;
+    margin: 128px;
+}
+.sh-2-h3{
+
+    text-align: center;
+}
+
+
+
+.box-container{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+     
+    margin-left: 190px;
+}
+.box-1{
+    border-radius: 300px 300px 0px 0px;
+    height: 200px;
+width: 100px;    /* background: rgba(167, 33, 98, 0.15); */
+    border: 160px solid   rgba(167, 33, 98, 0.15);
+}
+.box-2{
+    border-radius: 300px 300px 0px 0px;
+    margin-left: 23px;
+    height: 200px;
+width: 100px;    /* background: rgba(167, 33, 98, 0.15); */
+    border: 60px solid  rgba(5, 151, 160, 0.15);
+}
+.box-3{
+    border-radius: 300px 300px 0px 0px;
+    margin-left: 29px;
+    height: 200px;
+width: 100px;    /* background: rgba(167, 33, 98, 0.15); */
+    border: 60px solid rgba(71, 125, 17, 0.15);
+}
+
+
+
+/* section 4 */
+.sec-4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+/* section 5 
+ */
+.sec-5{
+    justify-content: center;
+    text-align: center;
+}
+/* .sec-5> .rectangle-section{
+
+
+    display: flex;
+ } */
+
+.sec-5> .rectangle-section{
+    
+    display: inline-flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 6px;
+     
+    /* border: 0px solid  transparent; */
+
+}
+
+/* sh-6 */
+
+.sh-6{
+    padding: 50px;
+    text-align: center;
+    justify-content: center;
+    background-image: url("images/Rectangle 9.png");
+}
+
+/* footer section */
+
+
+footer{
+    color: #FFFFFF;
+    text-align: center;
+    background-color: #111010;
+    padding: 60px;
+    /* height: 200px; */
+}
